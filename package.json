@@ -1,0 +1,13 @@
+{
+  "name": "jestexperiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "lodash": "^4.17.15"
+  }
+}
